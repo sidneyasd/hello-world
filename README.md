@@ -1,4 +1,4 @@
 # hello-world
 Practicing Git best practices
 
-Yes
+My name is Sidney and I am a coterm student in Mechanical Engineering at Stanford...
